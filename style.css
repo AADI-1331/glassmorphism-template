@@ -73,7 +73,9 @@ main {
   left: 10%;
 }
 .dashboard {
-  flex: 2;
+  flex: 1;
+  width:100%;
+  height:auto;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -85,19 +87,31 @@ main {
     rgba(255, 255, 255, 0.3)
   );
   border-radius: 2rem;
-  
+  flex-flow:wrap;
 }
-/* .links {
+
+
+
+.links {
+  flex-flow:wrap;
+  
   display:flex;
   flex-direction: row;
   justify-content: space-between;
-} */
+} 
+
+
+
+
 .link {
   display: flex;
   margin: 1rem 0rem;
   padding: 1rem 5rem;
   align-items: center;
 }
+
+
+
 .link h2 {
   display: flex;
   margin: -1rem;
@@ -225,3 +239,16 @@ button:focus{
              inset -5px -5px 10px #ffffff73;
              display: flex;
 } 
+
+  @media only screen and (max-width: 1200px) {
+  /* For mobile phones:*/
+  [class*="link"] {
+    width: 40%;
+  }
+}
+ @media only screen and (max-width: 400px) {
+  /* For mobile phones: */
+  [class*="link"] {
+    width: 90%;
+  }
+}
