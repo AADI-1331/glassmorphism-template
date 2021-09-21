@@ -241,13 +241,13 @@ button:focus{
 } 
 
   @media only screen and (max-width: 1200px) {
-  /* For mobile phones:*/
+  
   [class*="link"] {
     width: 40%;
   }
 }
  @media only screen and (max-width: 400px) {
-  /* For mobile phones: */
+  
   [class*="link"] {
     width: 90%;
   }
