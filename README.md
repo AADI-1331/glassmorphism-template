@@ -14,13 +14,13 @@ The template will be look like the web page drawn below,instead of these three c
 
 it will be replaced by these:
 
-![]()
+
 
 (Flip_Cards_Repo)
 (we recommend you to open this link in new tab so that you can copy-paste the code.)
 
 # FLIP CARDS:
-[](https://github.com/AADI-1331/Flip_Cards_Using_htm_and_css)
+[](# https://github.com/AADI-1331/Flip_Cards_Using_htm_and_css)
 
 
 
