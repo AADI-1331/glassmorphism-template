@@ -10,7 +10,7 @@ All contributions are welcomed.
 
 # AIM:
 The template will be look like the web page drawn below,instead of these three cards:
-![]()
+![](https://github.com/AADI-1331/glassmorphism-template/blob/file/three.png)
 
 it will be replaced by these:
 ![]()
