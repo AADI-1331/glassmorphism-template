@@ -14,7 +14,7 @@ The template will be look like the web page drawn below,instead of these three c
 
 it will be replaced by these:
 
-
+![](https://github.com/AADI-1331/glassmorphism-template/blob/file/mob.png)
 
 (Flip_Cards_Repo)
 (we recommend you to open this link in new tab so that you can copy-paste the code.)
