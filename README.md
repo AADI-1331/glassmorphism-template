@@ -9,7 +9,8 @@ All contributions are welcomed.
 ![](https://github.com/AADI-1331/glassmorphism-template/blob/file/rough_work.jpg)
 
 # AIM:
-The template will be look like the web page drawn below,instead of these three cards:
+The template will be look like the web page drawn above.
+Instead of these three cards:
 ![](https://github.com/AADI-1331/glassmorphism-template/blob/file/three.png)
 
 it will be replaced by these:
