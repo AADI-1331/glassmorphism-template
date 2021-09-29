@@ -23,4 +23,9 @@ it will be replaced by these:
 [](# https://github.com/AADI-1331/Flip_Cards_Using_htm_and_css)
 
 
+# CONTRIBUTERS
+
+<a href="https://github.com/AADI-1331/glassmorphism-template/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=AADI-1331/glassmorphism-template" />
+</a>
 
