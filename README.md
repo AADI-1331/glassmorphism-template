@@ -24,7 +24,7 @@ it will be replaced by these:
 [HERE](https://github.com/AADI-1331/Flip_Cards_Using_htm_and_css)
 
 
-
+# Contributors (in readme)
 
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=AADI-1331/glassmorphism-template)
 
