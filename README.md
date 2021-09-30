@@ -30,7 +30,7 @@ it will be replaced by these:
   <img src="https://contrib.rocks/image?repo=AADI-1331/glassmorphism-template" />
 </a>
 
-<a href="https://github.com/Yash-Bobde/glassmorphism-template/graphs/contributors">
+<a>
   <img src="https://contrib.rocks/image?repo=Yash-Bobde/glassmorphism-template" />
 </a>
 
