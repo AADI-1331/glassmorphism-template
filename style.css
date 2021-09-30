@@ -245,7 +245,7 @@ button:focus {
   display: flex;
 }
 
-/* Responsive design */
+/* Responsive Design */
 
 @media only screen and (max-width: 1200px) {
   [class*="link"] {
