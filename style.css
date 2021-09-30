@@ -1,3 +1,4 @@
+/* Default stylings */
 * {
   margin: 0;
   padding: 0;
@@ -35,6 +36,9 @@ main {
   justify-content: center;
 }
 
+/* Default stylings */
+
+/* Glass Start */
 .glass {
   background: white;
   min-height: 100vh;
@@ -50,6 +54,7 @@ main {
   display: flex;
   flex-direction: column;
 }
+/* circles */
 .circle1,
 .circle2 {
   background: white;
@@ -72,6 +77,9 @@ main {
   bottom: 5%;
   left: 10%;
 }
+/* circles */
+
+/* DashBoard */
 .dashboard {
   flex: 1;
   font-family: "Montserrat";
@@ -90,7 +98,9 @@ main {
   border-radius: 2rem;
   flex-flow: wrap;
 }
+/* DashBoard */
 
+/* Links */
 .links {
   flex-flow: wrap;
 
@@ -113,11 +123,15 @@ main {
   margin-right: 1rem;
   padding: 1rem 1rem;
 }
+/* Links */
 
+/* Games */
 .games {
   flex: 2;
 }
+/* Games */
 
+/* Pro Start */
 .pro {
   background: linear-gradient(to right top, #ec3636, #d809d8);
   border-radius: 2rem;
@@ -136,6 +150,7 @@ main {
   color: white;
   font-weight: 600;
 }
+/* Pro end */
 
 /* GAMES */
 .status {
@@ -230,6 +245,8 @@ button:focus {
   display: flex;
 }
 
+/* Responsive design */
+
 @media only screen and (max-width: 1200px) {
   [class*="link"] {
     width: 40%;
@@ -240,3 +257,6 @@ button:focus {
     width: 90%;
   }
 }
+/* Responsive design */
+
+/* Glass Start */
