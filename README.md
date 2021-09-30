@@ -29,7 +29,7 @@ it will be replaced by these:
 <a href="https://github.com/AADI-1331/glassmorphism-template/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=AADI-1331/glassmorphism-template" />
 </a>
-
+Made with [contributors-img](https://contrib.rocks).
 
 
 
