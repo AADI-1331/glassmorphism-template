@@ -1,6 +1,6 @@
 # GLASSMORPHISM TEMPLATE
 
-![](https://github.com/AADI-1331/glassmorphism-template/blob/file/aaa.png)
+![](https://github.com/AADI-1331/glassmorphism-template/blob/file/images/aaa.png)
 
 #CONTRIBUTIONS
 
@@ -11,11 +11,11 @@ All contributions are welcomed.
 # AIM:
 The template will be look like the web page drawn above.
 Instead of these three cards:
-![](https://github.com/AADI-1331/glassmorphism-template/blob/file/three.png)
+![](https://github.com/AADI-1331/glassmorphism-template/blob/file/images/3.png)
 
 it will be replaced by these:
 
-![](https://github.com/AADI-1331/glassmorphism-template/blob/file/mob.png)
+![](https://github.com/AADI-1331/glassmorphism-template/blob/file/images/mob.png)
 
 (Flip_Cards_Repo)
 (we recommend you to open this link in new tab so that you can copy-paste the code.)
