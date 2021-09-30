@@ -27,6 +27,7 @@ it will be replaced by these:
 # Contributors (in readme)
 
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=AADI-1331/glassmorphism-template)
+![GitHub Contributors Image](https://contrib.rocks/image?Yash-Bobde/glassmorphism-template)
 
 
 
