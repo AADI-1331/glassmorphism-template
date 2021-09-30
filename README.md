@@ -1,6 +1,6 @@
 # GLASSMORPHISM TEMPLATE
 
-![](https://github.com/AADI-1331/glassmorphism-template/blob/file/images/aaa.png)
+![](https://github.com/AADI-1331/glassmorphism-template/blob/file/static/images/scroll.png)
 
 #CONTRIBUTIONS
 
