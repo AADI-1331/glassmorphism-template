@@ -6,7 +6,7 @@
 
 All contributions are welcomed.
 (rough work)
-![](https://github.com/AADI-1331/glassmorphism-template/blob/file/images/rough_work.jpg)
+![](./rough_work.jpg)
 
 # AIM:
 The template will be look like the web page drawn above.
