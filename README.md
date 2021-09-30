@@ -21,7 +21,7 @@ it will be replaced by these:
 (we recommend you to open this link in new tab so that you can copy-paste the code.)
 
 # FLIP CARDS:
-[](# https://github.com/AADI-1331/Flip_Cards_Using_htm_and_css)
+[HERE](https://github.com/AADI-1331/Flip_Cards_Using_htm_and_css)
 
 
 # CONTRIBUTERS
