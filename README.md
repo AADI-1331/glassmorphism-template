@@ -6,16 +6,16 @@
 
 All contributions are welcomed.
 (rough work)
-![](https://github.com/AADI-1331/glassmorphism-template/blob/file/images/rough_work.jpg)
+![](https://github.com/AADI-1331/glassmorphism-template/blob/file/static/images/rough_work.jpg)
 
 # AIM:
 The template will be look like the web page drawn above.
 Instead of these three cards:
-![](https://github.com/AADI-1331/glassmorphism-template/blob/file/images/3.png)
+![](https://github.com/AADI-1331/glassmorphism-template/blob/file/static/images/3.png)
 
 it will be replaced by these:
 
-![](https://github.com/AADI-1331/glassmorphism-template/blob/file/images/mob.png)
+![](https://github.com/AADI-1331/glassmorphism-template/blob/file/static/images/mob.png)
 
 (Flip_Cards_Repo)
 (we recommend you to open this link in new tab so that you can copy-paste the code.)
