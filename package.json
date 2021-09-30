@@ -1,0 +1,17 @@
+{
+  "name": "glassmorphism-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/apoorvcodes/glassmorphism-template",
+  "author": "ToTu-Dev <75479355+ToTu-Dev@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "postcss static/style.css -o build/styles.css",
+    "start":  "live-server ./static"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.3.6",
+    "postcss-cli": "^9.0.1",
+    "tailwindcss": "^2.2.16"
+  }
+}
