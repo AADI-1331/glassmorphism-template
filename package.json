@@ -7,7 +7,7 @@
   "license": "MIT",
   "scripts": {
     "build": "postcss static/style.css -o build/styles.css",
-    "start":  "live-server ./static"
+    "start": "live-server ./static"
   },
   "dependencies": {
     "autoprefixer": "^10.3.6",
