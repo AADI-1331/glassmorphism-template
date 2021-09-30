@@ -22,14 +22,3 @@ it will be replaced by these:
 
 # FLIP CARDS:
 [HERE](https://github.com/AADI-1331/Flip_Cards_Using_htm_and_css)
-
-
-
-
-
-
-
-
-
-
-
