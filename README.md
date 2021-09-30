@@ -27,11 +27,9 @@ it will be replaced by these:
 # CONTRIBUTERS
 
 <a href="https://github.com/AADI-1331/glassmorphism-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Yash-Bobde/glassmorphism-template" />
+  <img src="https://contrib.rocks/image?repo=AADI-1331/glassmorphism-template" />
 </a>
-<a>
-  <img src="https://contrib.rocks/image?repo=Yeh-boi/glassmorphism-template" />
-</a>
+
 
 
 
