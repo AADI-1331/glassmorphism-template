@@ -2,6 +2,10 @@
 
 ![](https://github.com/AADI-1331/glassmorphism-template/blob/file/static/images/ssupdate.png)
 
+(after minimising the tab)
+
+![](https://github.com/AADI-1331/glassmorphism-template/blob/file/static/images/ssupdatesink.png)
+
 #CONTRIBUTIONS
 
 All contributions are welcomed.
