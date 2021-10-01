@@ -11,7 +11,7 @@ https://user-images.githubusercontent.com/78849620/135584227-83e26af4-3c76-4274-
 
 ![](https://github.com/AADI-1331/glassmorphism-template/blob/file/static/images/ssupdatesink.png)
 
-### <ins> :tada: CONTRIBUTIONS :tada: </ins> ###
+### :tada:<ins> CONTRIBUTIONS</ins>:tada: ###
 
 :busts_in_silhouette: All contributions are welcomed.
 
