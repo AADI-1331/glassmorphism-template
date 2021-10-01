@@ -26,44 +26,43 @@ https://user-images.githubusercontent.com/78849620/135584227-83e26af4-3c76-4274-
   * [Yash Bobde](https://github.com/Yash-Bobde)            :boy:
   * [Yeh-boi](https://github.com/Yeh-boi)                  :boy:
 
-#### :gift: guys thanks to you all for finding some time :hourglass: to contribute your skills to this repo :gift: ####
+***:gift: guys thanks to you all for finding some time :hourglass: to contribute your skills to this repo :gift:***
 
 # ONE OF THE COOLEST CONTRIBUTIONS FROM  [Pranavanbu28](https://github.com/Pranavanbu28) USING FIGMA:
 ### A prototype ###
 
 ![](https://github.com/AADI-1331/glassmorphism-template/blob/file/wireframe/wireframe.png)
 
+:point_down:
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
-
-
-
-
-
-
-
-
-
-## Further work to be done ##
-### AIM ###
+***Further work to be done***
+***AIM***
 
 (rough work)
 ![](https://github.com/AADI-1331/glassmorphism-template/blob/file/static/images/rough_work.jpg)
 
 
 
-The template will be look like the web page drawn above.
+***The template will be look like the web page drawn above***
 
-# Instead of these three cards:
+***Instead of these three cards***
 ![](https://github.com/AADI-1331/glassmorphism-template/blob/file/static/images/3.png)
 
-# it will be replaced by these:
+***it will be replaced by these***
 
 ![](https://github.com/AADI-1331/glassmorphism-template/blob/file/static/images/mob.png)
 
-(Flip_Cards_Repo)
+***(Flip_Cards_Repo)***
 (we recommend you to open this link in new tab so that you can copy-paste the code.)
 
-# FLIP CARDS:
+***FLIP CARDS***
 [HERE](https://github.com/AADI-1331/Flip_Cards_Using_htm_and_css)
 
 
