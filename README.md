@@ -26,9 +26,10 @@ https://user-images.githubusercontent.com/78849620/135584227-83e26af4-3c76-4274-
   * [Yash Bobde](https://github.com/Yash-Bobde)            :boy:
   * [Yeh-boi](https://github.com/Yeh-boi)                  :boy:
 
-#### :gift: guys thanks to you all for finding some time to contribute your skills to this repo :gift: ####
+#### :gift: guys thanks to you all for finding some time :hourglass: to contribute your skills to this repo :gift: ####
 
 # ONE OF THE COOLEST CONTRIBUTIONS FROM  [Pranavanbu28](https://github.com/Pranavanbu28) USING FIGMA:
+### A prototype ###
 
 ![](https://github.com/AADI-1331/glassmorphism-template/blob/file/wireframe/wireframe.png)
 
