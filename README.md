@@ -35,20 +35,20 @@ https://user-images.githubusercontent.com/78849620/135584227-83e26af4-3c76-4274-
 
 
 
-&nbsp;                                                                             TASK 1 COMPLETE
+TASK 1 COMPLETE
 <br/>
 <br/>
 <br/>
 <br/>
 :point_down:
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+:point_down:
+:point_down:
+:point_down:
+:point_down:
+:point_down:
+:point_down:
+:point_down:
+:point_down:
 <br/>
 <br/>
 <br/>
