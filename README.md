@@ -16,8 +16,8 @@ https://user-images.githubusercontent.com/78849620/135584227-83e26af4-3c76-4274-
 All contributions are welcomed.
 
 # CONTRIBUTERS
-  :star: [Garima](https://github.com/Garima-7)
-  :star: [Salokya Kumar](https://github.com/ksalokya)
+  :star: * [Garima](https://github.com/Garima-7)
+  :star: * [Salokya Kumar](https://github.com/ksalokya)
   * [Apoorv](https://github.com/apoorvcodes)
   * [sargam poudel](https://github.com/sargam-poudel)
   * [Pranav Anbarasan](https://github.com/Pranavanbu28)
