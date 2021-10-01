@@ -35,7 +35,7 @@ https://user-images.githubusercontent.com/78849620/135584227-83e26af4-3c76-4274-
 
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TASK 1 COMPLETE
+&nbsp;                                                                             TASK 1 COMPLETE
 <br/>
 <br/>
 <br/>
