@@ -13,9 +13,9 @@ https://user-images.githubusercontent.com/78849620/135584227-83e26af4-3c76-4274-
 
 ### CONTRIBUTIONS ###
 
-All contributions are welcomed.
+:busts_in_silhouette: All contributions are welcomed.
 
-# CONTRIBUTERS
+# CONTRIBUTERS /play greatjob
   * [Garima](https://github.com/Garima-7)                  :girl:
   * [Salokya Kumar](https://github.com/ksalokya)           :boy:
   * [Apoorv](https://github.com/apoorvcodes)               :boy:
@@ -26,7 +26,7 @@ All contributions are welcomed.
   * [Yash Bobde](https://github.com/Yash-Bobde)            :boy:
   * [Yeh-boi](https://github.com/Yeh-boi)                  :boy:
 
-<h4>guys thanks to you all for finding some time to contribute your skills to this repo.</h4>
+#### :gift: guys thanks to you all for finding some time to contribute your skills to this repo :gift: ####
 
 # ONE OF THE COOLEST CONTRIBUTIONS FROM  [Pranavanbu28](https://github.com/Pranavanbu28) USING FIGMA:
 
