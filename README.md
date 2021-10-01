@@ -3,6 +3,8 @@
 ![](https://github.com/AADI-1331/glassmorphism-template/blob/file/static/images/ssupdate.png)
 
 #Short clip
+
+
 https://user-images.githubusercontent.com/78849620/135584227-83e26af4-3c76-4274-b811-573d46d6e1a2.mp4
 
 (after minimising the tab)
