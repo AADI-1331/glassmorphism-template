@@ -50,6 +50,17 @@ main {
 	display: flex;
 	flex-direction: column;
 }
+/* heres my code- Sayantani Deb*/
+::selection {
+    background-color: pink;
+  }
+::-webkit-scrollbar {
+        width: 10px;
+        background-color: #d809d8;
+    }
+    ::-webkit-scrollbar-thumb {
+        background-color: #ec3636;
+      }
 
 .circle1, .circle2 {
 	background: white;
