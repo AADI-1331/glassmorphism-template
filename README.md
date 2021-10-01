@@ -17,6 +17,14 @@ All contributions are welcomed.
 (rough work)
 ![](https://github.com/AADI-1331/glassmorphism-template/blob/file/static/images/rough_work.jpg)
 
+
+# ONE OF A COOL CONTRIBUTION FROM  Pranavanbu28 USING FIGMA:
+![](https://github.com/AADI-1331/glassmorphism-template/blob/file/wireframe/wireframe.png)
+
+
+
+
+
 # AIM:
 The template will be look like the web page drawn above.
 Instead of these three cards:
