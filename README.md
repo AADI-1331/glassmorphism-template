@@ -12,19 +12,19 @@ https://user-images.githubusercontent.com/78849620/135584227-83e26af4-3c76-4274-
 ![](https://github.com/AADI-1331/glassmorphism-template/blob/file/static/images/ssupdatesink.png)
 
 ### CONTRIBUTIONS ###
-:bowtie:
+
 All contributions are welcomed.
 
 # CONTRIBUTERS
-  *:star:[Garima](https://github.com/Garima-7)
-  *:star:[Salokya Kumar](https://github.com/ksalokya)
-  * [Apoorv](https://github.com/apoorvcodes)
-  * [sargam poudel](https://github.com/sargam-poudel)
-  * [Pranav Anbarasan](https://github.com/Pranavanbu28)
-  * [Arjun Khanduri](https://github.com/arjun-khanduri)
-  * [Sayantani Deb](https://github.com/SayantaniDeb)
-  * [Yash Bobde](https://github.com/Yash-Bobde)
-  * [Yeh-boi](https://github.com/Yeh-boi)
+  * [Garima](https://github.com/Garima-7)                  :girl:
+  * [Salokya Kumar](https://github.com/ksalokya)           :boy:
+  * [Apoorv](https://github.com/apoorvcodes)               :boy:
+  * [sargam poudel](https://github.com/sargam-poudel)      :boy:
+  * [Pranav Anbarasan](https://github.com/Pranavanbu28)    :boy:
+  * [Arjun Khanduri](https://github.com/arjun-khanduri)    :boy:
+  * [Sayantani Deb](https://github.com/SayantaniDeb)       :girl:
+  * [Yash Bobde](https://github.com/Yash-Bobde)            :boy:
+  * [Yeh-boi](https://github.com/Yeh-boi)                  :boy:
 
 <h4>guys thanks to you all for finding some time to contribute your skills to this repo.</h4>
 
