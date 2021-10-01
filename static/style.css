@@ -97,6 +97,9 @@ main {
 
 .links {
 	display: flex;
+	flex-flow: wrap;
+	flex-direction: row;
+	justify-content: space-between;
 }
 
 .link {
