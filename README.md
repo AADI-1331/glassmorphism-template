@@ -11,14 +11,24 @@ https://user-images.githubusercontent.com/78849620/135584227-83e26af4-3c76-4274-
 
 ![](https://github.com/AADI-1331/glassmorphism-template/blob/file/static/images/ssupdatesink.png)
 
-#CONTRIBUTIONS
+# CONTRIBUTIONS
 
 All contributions are welcomed.
-(rough work)
-![](https://github.com/AADI-1331/glassmorphism-template/blob/file/static/images/rough_work.jpg)
 
+# CONTRIBUTERS
+  [Garima](https://github.com/Garima-7)
+  [Salokya Kumar](https://github.com/ksalokya)
+  [Apoorv](https://github.com/apoorvcodes)
+  [sargam poudel](https://github.com/sargam-poudel)
+  [Pranav Anbarasan](https://github.com/Pranavanbu28)
+  [Arjun Khanduri](https://github.com/arjun-khanduri)
+  [Sayantani Deb](https://github.com/SayantaniDeb)
+  [Yash Bobde](https://github.com/Yash-Bobde)
+  [Yeh-boi](https://github.com/Yeh-boi)
 
-# ONE OF THE COOL CONTRIBUTIONS FROM  [Pranavanbu28](https://github.com/Pranavanbu28) USING FIGMA:
+<h4>guys thanks to you all for finding some time to contribute your skills to this repo.</h4>
+
+# ONE OF THE COOLEST CONTRIBUTIONS FROM  [Pranavanbu28](https://github.com/Pranavanbu28) USING FIGMA:
 
 ![](https://github.com/AADI-1331/glassmorphism-template/blob/file/wireframe/wireframe.png)
 
@@ -26,12 +36,25 @@ All contributions are welcomed.
 
 
 
+
+
+
+
+
+
 # AIM:
+
+(rough work)
+![](https://github.com/AADI-1331/glassmorphism-template/blob/file/static/images/rough_work.jpg)
+
+
+
 The template will be look like the web page drawn above.
-Instead of these three cards:
+
+# Instead of these three cards:
 ![](https://github.com/AADI-1331/glassmorphism-template/blob/file/static/images/3.png)
 
-it will be replaced by these:
+# it will be replaced by these:
 
 ![](https://github.com/AADI-1331/glassmorphism-template/blob/file/static/images/mob.png)
 
