@@ -25,7 +25,7 @@ https://user-images.githubusercontent.com/78849620/135584227-83e26af4-3c76-4274-
   * [Sayantani Deb](https://github.com/SayantaniDeb)       :girl:
   * [Yash Bobde](https://github.com/Yash-Bobde)            :boy:
   * [Yeh-boi](https://github.com/Yeh-boi)                  :boy:
-/play greatjob
+
 #### :gift: guys thanks to you all for finding some time to contribute your skills to this repo :gift: ####
 
 # ONE OF THE COOLEST CONTRIBUTIONS FROM  [Pranavanbu28](https://github.com/Pranavanbu28) USING FIGMA:
