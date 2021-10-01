@@ -12,8 +12,7 @@ h1 {
 	display: flex;
 }
 
-h2,
-p {
+h2, p {
 	color: #658ec6;
 	font-weight: 500;
 	opacity: 0.8;
@@ -34,20 +33,17 @@ main {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-      }
+}
 
-	.user{
-		font-size: medium;
-	  }
-      
+.user {
+	font-size: medium;
+}
 
 .glass {
 	background: white;
 	min-height: 100vh;
 	width: 100%;
-	background: linear-gradient(to right bottom,
-			rgba(255, 255, 255, 0.2),
-			rgba(255, 255, 255, 0.3));
+	background: linear-gradient(to right bottom, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.3));
 	border-radius: 2rem;
 	z-index: 2;
 	backdrop-filter: blur(2rem);
@@ -55,15 +51,12 @@ main {
 	flex-direction: column;
 }
 
-.circle1,
-.circle2 {
+.circle1, .circle2 {
 	background: white;
-	background: linear-gradient(to right bottom,
-			rgba(255, 255, 255, 0.8),
-			rgba(255, 255, 255, 0.3));
+	background: linear-gradient(to right bottom, rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.3));
 	height: 20rem;
 	width: 20rem;
-	position: absolute;
+	position: fixed;
 	border-radius: 50%;
 }
 
@@ -85,42 +78,34 @@ main {
 	align-items: center;
 	justify-content: space-between;
 	text-align: center;
-	background: linear-gradient(
-	to right bottom,
-	rgba(255, 255, 255, 0.7),
-	rgba(255, 255, 255, 0.3)
-	);
+	background: linear-gradient( to right bottom, rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.3));
 	border-bottom-right-radius: 1rem;
 	border-bottom-left-radius: 1rem;
 	padding: 50px;
-		}
-      
-      
-      
-      .links {
-	display:flex;
-      } 
+}
+
+.links {
+	display: flex;
+}
 
 .link {
 	display: flex;
 	align-items: center;
-	margin:0px 2%;
-      }
-      
-      
-.link img{
+	margin: 0px 2%;
+}
+
+.link img {
 	height: 40%;
 }
-      .link h2 {
+
+.link h2 {
 	display: flex;
 	font-size: medium;
 	margin: -0.5rem;
 	margin-left: 0.2rem;
 	margin-right: 0.2rem;
 	padding: 0.4rem 1.2rem;
-	
-      }
-      
+}
 
 .games {
 	flex: 2;
@@ -147,18 +132,16 @@ main {
 	color: white;
 	font-size: medium;
 	font-weight: 600px;
-      }
-      
+}
 
 /* GAMES */
+
 .status {
 	margin-bottom: 3rem;
 }
 
 .status input {
-	background: linear-gradient(to right bottom,
-			rgba(255, 255, 255, 0.2),
-			rgba(255, 255, 255, 0.123));
+	background: linear-gradient(to right bottom, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.123));
 	border: none;
 	width: 50%;
 	padding: 0.5rem;
@@ -174,9 +157,7 @@ main {
 
 .card {
 	display: flex;
-	background: linear-gradient(to left top,
-			rgba(255, 255, 255, 0.281),
-			rgba(255, 255, 255, 0.288));
+	background: linear-gradient(to left top, rgba(255, 255, 255, 0.281), rgba(255, 255, 255, 0.288));
 	border-radius: 1rem;
 	margin: 2rem 0rem;
 	padding: 2rem;
@@ -231,29 +212,24 @@ button {
 	outline: none;
 	cursor: pointer;
 	color: #595959;
-	box-shadow: 2px 2px 5px #e46bbf,
-		-2px -2px 40px #e41553;
+	box-shadow: 2px 2px 5px #e46bbf, -2px -2px 40px #e41553;
 	margin: 1rem;
 	display: flex;
-
 }
 
 button:focus {
 	color: #e46bbf;
-	box-shadow: inset 2px 2px 5px #BABECC,
-		inset -5px -5px 10px #ffffff73;
+	box-shadow: inset 2px 2px 5px #BABECC, inset -5px -5px 10px #ffffff73;
 	display: flex;
 }
 
 @media only screen and (max-width: 1200px) {
-
 	[class*="link"] {
 		width: 40%;
 	}
 }
 
 @media only screen and (max-width: 400px) {
-
 	[class*="link"] {
 		width: 90%;
 	}
