@@ -2,7 +2,7 @@
 
 ![](https://github.com/AADI-1331/glassmorphism-template/blob/file/static/images/ssupdate.png)
 
-#Short clip :movie_camera:
+#<ins>Short clip :movie_camera:</ins>
 
 
 https://user-images.githubusercontent.com/78849620/135584227-83e26af4-3c76-4274-b811-573d46d6e1a2.mp4
@@ -11,11 +11,11 @@ https://user-images.githubusercontent.com/78849620/135584227-83e26af4-3c76-4274-
 
 ![](https://github.com/AADI-1331/glassmorphism-template/blob/file/static/images/ssupdatesink.png)
 
-### :tada: CONTRIBUTIONS :tada: ###
+### <ins> :tada: CONTRIBUTIONS :tada: </ins> ###
 
 :busts_in_silhouette: All contributions are welcomed.
 
-# CONTRIBUTERS
+# <ins> CONTRIBUTERS </ins>
   * [Garima](https://github.com/Garima-7)                  :girl:
   * [Salokya Kumar](https://github.com/ksalokya)           :boy:
   * [Apoorv](https://github.com/apoorvcodes)               :boy:
@@ -28,7 +28,7 @@ https://user-images.githubusercontent.com/78849620/135584227-83e26af4-3c76-4274-
 
 ***:gift: guys thanks to you all for finding some time :hourglass: to contribute your skills to this repo :gift:***
 
-# ONE OF THE COOLEST CONTRIBUTIONS FROM  [Pranavanbu28](https://github.com/Pranavanbu28) USING FIGMA:
+### ONE OF THE COOLEST CONTRIBUTIONS FROM  [Pranavanbu28](https://github.com/Pranavanbu28) USING FIGMA: ###
 ### A prototype ###
 
 ![](https://github.com/AADI-1331/glassmorphism-template/blob/file/wireframe/wireframe.png)
