@@ -2,7 +2,7 @@
 
 ![](https://github.com/AADI-1331/glassmorphism-template/blob/file/static/images/ssupdate.png)
 
-#Short clip
+#Short clip :movie_camera:
 
 
 https://user-images.githubusercontent.com/78849620/135584227-83e26af4-3c76-4274-b811-573d46d6e1a2.mp4
@@ -43,7 +43,8 @@ https://user-images.githubusercontent.com/78849620/135584227-83e26af4-3c76-4274-
 
 
 
-# AIM:
+## Further work to be done ##
+### AIM ###
 
 (rough work)
 ![](https://github.com/AADI-1331/glassmorphism-template/blob/file/static/images/rough_work.jpg)
