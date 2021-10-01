@@ -18,7 +18,8 @@ All contributions are welcomed.
 ![](https://github.com/AADI-1331/glassmorphism-template/blob/file/static/images/rough_work.jpg)
 
 
-# ONE OF A COOL CONTRIBUTION FROM  Pranavanbu28 USING FIGMA:
+# ONE OF THE COOL CONTRIBUTIONS FROM  [Pranavanbu28](https://github.com/Pranavanbu28) USING FIGMA:
+
 ![](https://github.com/AADI-1331/glassmorphism-template/blob/file/wireframe/wireframe.png)
 
 
