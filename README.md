@@ -16,7 +16,7 @@ https://user-images.githubusercontent.com/78849620/135584227-83e26af4-3c76-4274-
 
 :busts_in_silhouette: All contributions are welcomed.
 
-![gify](https://tenor.com/view/ang-ku-kueh-girl-akkg-ang-ku-kueh-girl-and-friends-uob-united-overseas-bank-gif-15771643)
+<img src="https://tenor.com/view/ang-ku-kueh-girl-akkg-ang-ku-kueh-girl-and-friends-uob-united-overseas-bank-gif-15771643.gif" width="40" height="40" />
 
 # <ins> CONTRIBUTERS </ins>
   * [Garima](https://github.com/Garima-7)                  :girl:
