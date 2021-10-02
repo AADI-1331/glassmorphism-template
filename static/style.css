@@ -36,6 +36,7 @@ main {
 }
 
 .user {
+	padding-left: 20px;
 	font-size: medium;
 }
 
@@ -84,7 +85,7 @@ main {
 .dashboard {
 	flex: 1;
 	width: 100%;
-	height: auto;
+	height:50%;
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
@@ -92,7 +93,6 @@ main {
 	background: linear-gradient( to right bottom, rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.3));
 	border-bottom-right-radius: 1rem;
 	border-bottom-left-radius: 1rem;
-	padding: 50px;
 }
 
 .links {
@@ -129,7 +129,7 @@ main {
 .pro {
 	background: linear-gradient(to right top, #ec3636, #d809d8);
 	border-radius: 1rem;
-	height: 100px;
+	height: 80px;
 	color: white;
 	padding: 1rem;
 	position: relative;
@@ -137,7 +137,7 @@ main {
 
 .pro img {
 	position: absolute;
-	height: 96%;
+	height: 90%;
 	top: -10%;
 	right: 10%;
 }
@@ -161,6 +161,7 @@ main {
 	width: 50%;
 	padding: 0.5rem;
 	border-radius: 2rem;
+	outline:none;
 }
 
 .games {
@@ -178,10 +179,12 @@ main {
 	padding: 2rem;
 	box-shadow: 6px 6px 20px rgba(122, 122, 122, 0.096);
 	justify-content: space-between;
+	outline: none;
 }
 
 .card:hover{
 	margin: 2rem 2rem;
+	transition: 0.6s ease;
 }
 
 .progress {
@@ -241,7 +244,27 @@ button:focus {
 	box-shadow: inset 2px 2px 5px #BABECC, inset -5px -5px 10px #ffffff73;
 	display: flex;
 }
-
+@media only screen and (max-width: 768px) {
+	body{
+		overflow-x: hidden;
+		margin: 0;
+		padding: 0;
+	}
+	.navigation-button{
+		font-size: 1.2rem;
+	}
+	.card{
+		overflow: hidden;
+		width: 300px;
+	}
+	.card-info{
+		padding-left: 10px;
+		font-size: 50%;
+	}
+	.percentage{
+		font-size: 75%;
+	}
+}
 @media only screen and (max-width: 1200px) {
 	[class*="link"] {
 		width: 40%;
@@ -258,4 +281,5 @@ button:focus {
 .navigation-button:hover{
 	color: #d809d8;
 	font-size: larger;
+	transition: 0.3s;
 }
