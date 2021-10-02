@@ -1,4 +1,4 @@
-<img src="https://i.gifer.com/GPkR.gif" width="540" height="140" />
+
 
 
 # <ins>GLASSMORPHISM TEMPLATE</ins> #
