@@ -16,7 +16,7 @@ https://user-images.githubusercontent.com/78849620/135584227-83e26af4-3c76-4274-
 
 :busts_in_silhouette: All contributions are welcomed.
 
-https://tenor.com/view/well-done-well-done-pakistani-boy-taaliyaan-proud-proud-of-you-gif-20907497
+
 
 # <ins> CONTRIBUTERS </ins>
   * [Garima](https://github.com/Garima-7)                  :girl:
