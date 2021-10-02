@@ -1,5 +1,7 @@
 <img src="https://tenor.com/view/hello-hi-minion-gif-16235329.gif" width="140" height="140" />
-# <ins>GLASSMORPHISM TEMPLATE</ins>
+
+
+# <ins>GLASSMORPHISM TEMPLATE</ins> #
 
 ![](https://github.com/AADI-1331/glassmorphism-template/blob/file/static/images/ssupdate.png)
 
