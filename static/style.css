@@ -180,6 +180,10 @@ main {
 	justify-content: space-between;
 }
 
+.card:hover{
+	margin: 2rem 2rem;
+}
+
 .progress {
 	background: linear-gradient(to right top, #ec3636, #d809d8);
 	width: 100%;
@@ -248,4 +252,10 @@ button:focus {
 	[class*="link"] {
 		width: 90%;
 	}
+}
+
+
+.navigation-button:hover{
+	color: #d809d8;
+	font-size: larger;
 }
