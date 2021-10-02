@@ -10,6 +10,16 @@
 
 https://user-images.githubusercontent.com/78849620/135584227-83e26af4-3c76-4274-b811-573d46d6e1a2.mp4
 
+### Hover effect ###
+
+* colour change on links
+
+![](https://github.com/AADI-1331/glassmorphism-template/blob/file/static/images/hover.png)
+
+* Size change on cards
+
+![](https://github.com/AADI-1331/glassmorphism-template/blob/file/static/images/hovercard.png)
+
 (after minimising the tab)
 
 ![](https://github.com/AADI-1331/glassmorphism-template/blob/file/static/images/ssupdatesink.png)
@@ -30,6 +40,7 @@ https://user-images.githubusercontent.com/78849620/135584227-83e26af4-3c76-4274-
   * [Sayantani Deb](https://github.com/SayantaniDeb)       :girl:
   * [Yash Bobde](https://github.com/Yash-Bobde)            :boy:
   * [Yeh-boi](https://github.com/Yeh-boi)                  :boy:
+  * [Aditya Chavan](https://github.com/git-aditya-star)    :boy:
 
 ***:gift: guys thanks to you all for finding some time :hourglass: to contribute your skills to this repo :gift:***
 
