@@ -24,6 +24,7 @@ h3 {
 	font-weight: 600;
 	opacity: 0.8;
 	display: flex;
+	justify-content: center;
 }
 
 main {
@@ -33,6 +34,127 @@ main {
 	display: flex;
 	align-items: center;
 	justify-content: center;
+}
+.main-cards{
+    display:flex;
+    flex-direction: row;
+    justify-content:center;
+	flex-wrap: wrap;
+	align-items: center;
+	align-content: space-around;
+    
+
+}
+div .box{
+    padding:20px;
+}
+
+.box{
+    position:relative;
+    perspective: 1000px;
+    transition:all 0.3s ease-in-out 0.1s;
+}
+
+.box:hover{
+    transform:scale(1.1);
+    box-shadow:1px 2px 10px 5px solid #000 ;
+}
+
+.box .box-img
+{
+    transform:rotateY(0);
+    transition:all 0.4s ease-in-out 0s;
+}
+
+.box:hover  .box-img
+{
+    transform: rotateY(-90deg);
+}
+
+.box .box-img img{
+    width: 200px;
+    height:350px;
+    border:2px solid #000;
+    border-radius: 10px;
+}
+
+.box .content
+{
+    color:rgb(231, 12, 12);
+    background:rgba(0, 0, 0, 0.466);
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    position:absolute;
+    padding:90px 20px;
+    box-sizing:border-box;
+    text-align:center;
+    border-radius: 10px;
+    transform: rotateY(90deg);
+    transition:all 0.5s ease-in-out 0s;
+}
+
+.box:hover .content
+{
+    transform: rotateY(0);
+    
+}
+
+.box .content p{
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+    padding: 20px 0;
+    margin:0 25px;
+}
+
+.box .button{
+    
+    background:none;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    position:absolute;
+    padding:260px 50px;
+    box-sizing:border-box;
+    text-align:center;
+    border-radius: 10px;
+    align-items:center;
+    transform: rotateY(90deg);
+    transition:all 0.5s ease-in-out 0s;
+}
+
+
+.box:hover .button
+{
+    transform: rotateY(0);
+}
+
+.box .button li{
+    list-style:none;
+    padding:10px 0;
+
+}
+.box .button li a{
+    color:white;
+    text-decoration:none;
+    border: 1px solid transparent;
+    padding:5px 10px;
+    background: linear-gradient(to bottom left, #ec3636, #d809d8);
+    border-radius:50px;
+}
+
+.box .button li a:hover{
+    background: linear-gradient(to bottom left, #b836ec, #d80971);
+}
+
+.box .button.dark li a {
+    background: linear-gradient(to bottom left, #e70d68, #012f91);
+}
+
+.box .button.dark li a:hover{
+    background: linear-gradient(to bottom left, #b836ec, #041368);
 }
 
 .user {
@@ -99,6 +221,8 @@ main {
 	display: flex;
 	flex-flow: wrap;
 	flex-direction: row;
+	align-items: center;
+	/* align-content: space-between; */
 	justify-content: space-between;
 }
 
@@ -108,7 +232,6 @@ main {
 	margin: 1rem 0rem;
 	padding: 1rem;
 }
-
 .link img {
 	height: 40%;
 }
@@ -126,13 +249,16 @@ main {
 	flex: 2;
 }
 
+
 .pro {
+	
 	background: linear-gradient(to right top, #ec3636, #d809d8);
 	border-radius: 1rem;
 	height: 80px;
 	color: white;
-	padding: 1rem;
+	padding-bottom: 1rem;
 	position: relative;
+
 }
 
 .pro img {
@@ -244,8 +370,8 @@ main {
 }
 
 button {
-	margin: 1px 0;
-	width: 100%;
+	margin: 4px 0;
+	width: fit-content;
 	height: 50px;
 	font-size: 18px;
 	line-height: 50px;
@@ -256,15 +382,21 @@ button {
 	outline: none;
 	cursor: pointer;
 	color: #595959;
+	padding-left: 2%;
+	padding-right: 2%;
 	box-shadow: 2px 2px 5px #e46bbf, -2px -2px 40px #e41553;
-	margin: 1rem;
+	/* margin: 1rem; */
 	display: flex;
+	
 }
 
 button:focus {
 	color: #e46bbf;
 	box-shadow: inset 2px 2px 5px #BABECC, inset -5px -5px 10px #ffffff73;
 	display: flex;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
 }
 @media only screen and (max-width: 768px) {
 	body{
@@ -273,6 +405,12 @@ button:focus {
 		padding: 0;
 	}
 	.navigation-button{
+
+		flex-direction: row;
+		flex-wrap: wrap;
+		align-items: center;
+		justify-content: center;
+
 		font-size: 1.2rem;
 	}
 	.card{
@@ -301,6 +439,9 @@ button:focus {
 
 
 .navigation-button:hover{
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
 	color: #d809d8;
 	font-size: larger;
 	transition: 0.3s;
