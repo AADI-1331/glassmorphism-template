@@ -55,7 +55,7 @@ https://user-images.githubusercontent.com/78849620/135761786-567322b9-995f-4d10-
   * [varshilshah](https://github.com/varshilshah-2002)    :boy:
  
  
- ***flip cards***
+ ***Contributions in flip cards by:***
  
  
   * [Tisha Soumya](https://github.com/Tishasoumya-02)       :girl:
