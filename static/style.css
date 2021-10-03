@@ -155,12 +155,24 @@ main {
 	margin-bottom: 3rem;
 }
 
-.status input {
-	background: linear-gradient(to right bottom, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.123));
-	border: none;
+.status .inputText{
+	background: linear-gradient(to left bottom, rgb(170, 80, 170), red);
 	width: 50%;
-	padding: 0.5rem;
-	border-radius: 2rem;
+	border-radius: 2em;
+}
+
+.status i{
+	float: right;
+	margin-top: 5px;
+	margin-right: 1.5%;
+}
+
+.status input{
+	background: inherit;
+	border: none;
+	width:95%;
+	border-radius: 2em;
+	padding: 0.5em;
 	outline:none;
 }
 
@@ -264,12 +276,25 @@ button:focus {
 	.percentage{
 		font-size: 75%;
 	}
+
+	
 }
 @media only screen and (max-width: 1200px) {
 	[class*="link"] {
 		width: 40%;
 	}
+
+	.status input{
+		width:90%;
+	}
 }
+
+@media only screen and (max-width: 600px) {
+	.status i{
+		display: none;
+	}
+}
+
 
 @media only screen and (max-width: 400px) {
 	[class*="link"] {
