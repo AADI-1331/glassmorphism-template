@@ -155,17 +155,37 @@ main {
 
 .status {
 	margin-bottom: 3rem;
+	
+}
+.status .inputText{
+	background: linear-gradient(to right top, rgba(238, 45, 135, 0.705), rgb(255, 255, 255));
+	width: 50%;
+	border-radius: 2em;
+	
+	/*
+	background-color: rgba(255, 255, 251, 0.6);
+    background: rgba(255, 255, 251, 0.6);
+	*/
 }
 
 .status input {
-	background: linear-gradient(to right bottom, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.123));
+	background: inherit;
+	
+	
 	border: none;
-	width: 50%;
+	width: 96%;
 	padding: 0.5rem;
 	border-radius: 2rem;
 	outline:none;
 }
-
+.status i{
+	float: right;
+	margin-top: 5px;
+	margin-right: 1px;
+	cursor: pointer;
+	position:absolute;
+	
+}
 .games {
 	margin: 5rem;
 	display: flex;
