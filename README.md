@@ -1,6 +1,14 @@
 <img src="https://tenor.com/view/hello-hi-minion-gif-16235329.gif" width="140" height="140" />
 
 
+# :tada:NEW LOOK:tada: #
+
+
+https://user-images.githubusercontent.com/78849620/135761206-da2be785-2599-44dd-a8fc-f6e669fa1f2b.mp4
+
+
+
+
 # <ins>GLASSMORPHISM TEMPLATE</ins> #
 
 ![](https://github.com/AADI-1331/glassmorphism-template/blob/file/static/images/ssupdate.png)
