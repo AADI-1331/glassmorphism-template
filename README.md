@@ -1,6 +1,8 @@
 <img src="https://tenor.com/view/hello-hi-minion-gif-16235329.gif" width="140" height="140" />
 
 
+# <ins>GLASSMORPHISM TEMPLATE</ins> #
+
 # :tada:NEW LOOK:tada: #
 ***updated 3-10-2021***
 
@@ -10,27 +12,37 @@ https://user-images.githubusercontent.com/78849620/135761206-da2be785-2599-44dd-
 
 
 # <ins>GLASSMORPHISM TEMPLATE</ins> #
+***old look***
 
 ![](https://github.com/AADI-1331/glassmorphism-template/blob/file/static/images/ssupdate.png)
 
-#<ins>Short clip :movie_camera:</ins>
 
-
-https://user-images.githubusercontent.com/78849620/135584227-83e26af4-3c76-4274-b811-573d46d6e1a2.mp4
 
 ### Hover effect ###
 
 * colour change on links
 
-![](https://github.com/AADI-1331/glassmorphism-template/blob/file/static/images/hover.png)
 
-* Size change on cards
 
-![](https://github.com/AADI-1331/glassmorphism-template/blob/file/static/images/hovercard.png)
+https://user-images.githubusercontent.com/78849620/135762116-f9ba2948-7acf-4b78-9269-cf0b7ac40319.mp4
+
+
+
+* flip effect on cards
+
+
+https://user-images.githubusercontent.com/78849620/135761729-663f80f6-8176-491d-accd-128bc5c08a4e.mp4
+
 
 (after minimising the tab)
 
-![](https://github.com/AADI-1331/glassmorphism-template/blob/file/static/images/ssupdatesink.png)
+
+
+https://user-images.githubusercontent.com/78849620/135761786-567322b9-995f-4d10-83d0-914a400f9ee3.mp4
+
+
+
+
 
 ### :tada:<ins> CONTRIBUTIONS</ins>:tada: ###
 
@@ -53,53 +65,10 @@ https://user-images.githubusercontent.com/78849620/135584227-83e26af4-3c76-4274-
 
 ***:gift: guys thanks to you all for finding some time :hourglass: to contribute your skills to this repo :gift:***
 
-### ONE OF THE COOLEST CONTRIBUTIONS FROM  [Pranavanbu28](https://github.com/Pranavanbu28) USING FIGMA: ###
-### A prototype ###
-
-![](https://github.com/AADI-1331/glassmorphism-template/blob/file/wireframe/wireframe.png)
 
 
 
-***TASK 1 COMPLETE***
-<br/>
-<br/>
-<br/>
-<br/>
-:point_down:
-:point_down:
-:point_down:
-:point_down:
-:point_down:
-:point_down:
-:point_down:
-:point_down:
-:point_down:
-<br/>
-<br/>
-<br/>
-
-***Further work to be done***
-<br/>***AIM***
-
-(rough work)
-![](https://github.com/AADI-1331/glassmorphism-template/blob/file/static/images/rough_work.jpg)
 
 
-
-***The template will be look like the web page drawn above***
-
-***Instead of these three cards***
-![](https://github.com/AADI-1331/glassmorphism-template/blob/file/static/images/3.png)
-
-***it will be replaced by these***
-
-![](https://github.com/AADI-1331/glassmorphism-template/blob/file/static/images/mob.png)
-
-***(Flip_Cards_Repo)***
-(we recommend you to open this link in new tab so that you can copy-paste the code.)
-
-***FLIP CARDS***
-<br/>
-[HERE](https://github.com/AADI-1331/Flip_Cards_Using_htm_and_css)
 
 
