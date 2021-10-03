@@ -230,6 +230,7 @@ div .box{
 	display: flex;
 	align-items: center;
 	margin: 1rem 0rem;
+	justify-content: center;
 	padding: 1rem;
 }
 .link img {
@@ -397,6 +398,64 @@ button:focus {
 	overflow: hidden;
 	text-overflow: ellipsis;
 	white-space: nowrap;
+}
+@media screen and (max-width: 460px){
+	.cards{
+         padding-left:0;
+		 padding-right:0;  
+	}
+	div .box{
+		padding-right:0;
+		padding-left:0;
+	}
+	.games{
+		margin: 3rem;
+	}
+	.status h1{
+		font-size: 32px;
+	}
+}
+@media screen and (max-width: 360px){
+      .user h3{
+		  font-size: 16px;
+	  }
+	  .user{
+		  padding-left: 8px;
+	  }
+	  .user p{
+		 font-size: 14px;
+	  }
+	  .status h1{
+		  font-size: 25px;
+	  }
+	  .link{
+		  padding:0;
+		  font-size: 16px;
+	  }
+	  .pro{
+		  height: 90px;
+	  }
+	  .pro h2{
+		  font-size: 13px;
+		  font-weight: 400;
+		  width: 50%;
+		  z-index: 1000;
+	  }
+	  .links{
+		  justify-content: center;
+		  margin-left:0;
+	  }
+	  .pro img{
+		  right:0%;
+		  width: 60%;
+	  }
+	  
+}
+@media screen and (max-width: 300px){
+	.games{
+		margin: 1rem;
+		margin-top: 3rem;
+	}
 }
 @media only screen and (max-width: 768px) {
 	body{
