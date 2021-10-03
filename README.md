@@ -9,15 +9,6 @@
 https://user-images.githubusercontent.com/78849620/135761206-da2be785-2599-44dd-a8fc-f6e669fa1f2b.mp4
 
 
-
-
-# <ins>GLASSMORPHISM TEMPLATE</ins> #
-***old look***
-
-![](https://github.com/AADI-1331/glassmorphism-template/blob/file/static/images/ssupdate.png)
-
-
-
 ### Hover effect ###
 
 * colour change on links
@@ -62,11 +53,18 @@ https://user-images.githubusercontent.com/78849620/135761786-567322b9-995f-4d10-
   * [Yeh-boi](https://github.com/Yeh-boi)                  :boy:
   * [Aditya Chavan](https://github.com/git-aditya-star)    :boy:
   * [varshilshah](https://github.com/varshilshah-2002)    :boy:
+  ***flip cards***
+  * [Tisha Soumya](https://github.com/Tishasoumya-02)       :girl:
+  * [Anushka Garg](https://github.com/Anushh23)           :girl:
+  * [SCHWITZ](https://github.com/SCHW18TZ)     :boy:
 
 ***:gift: guys thanks to you all for finding some time :hourglass: to contribute your skills to this repo :gift:***
 
 
+# <ins>GLASSMORPHISM TEMPLATE</ins> #
+***old look***
 
+![](https://github.com/AADI-1331/glassmorphism-template/blob/file/static/images/ssupdate.png)
 
 
 
