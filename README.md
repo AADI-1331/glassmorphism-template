@@ -64,7 +64,9 @@ https://user-images.githubusercontent.com/78849620/135761786-567322b9-995f-4d10-
 
 ***:gift: guys thanks to you all for finding some time :hourglass: to contribute your skills to this repo :gift:***
 
-~~GLASSMORPHISM TEMPLATE~~
+~~GLASSMORPHISM TEMPLATE~~<br/>
+
+
 ***old look***
 
 ![](https://github.com/AADI-1331/glassmorphism-template/blob/file/static/images/ssupdate.png)
