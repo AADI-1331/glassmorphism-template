@@ -255,7 +255,7 @@ div .box{
 
 
 .pro {
-	
+	margin: 3px;
 	background: linear-gradient(to right top, #ec3636, #d809d8);
 	border-radius: 1rem;
 	height: 80px;
