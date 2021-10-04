@@ -74,8 +74,12 @@ div .box{
 .box .box-img img{
     width: 200px;
     height:350px;
-    border:2px solid #000;
+    border:none;
     border-radius: 10px;
+}
+
+.fa-search:before {
+	color: #426696;
 }
 
 .box .content
@@ -252,7 +256,7 @@ div .box{
 
 
 .pro {
-	
+	margin: 3px;
 	background: linear-gradient(to right top, #ec3636, #d809d8);
 	border-radius: 1rem;
 	height: 80px;
@@ -371,7 +375,7 @@ div .box{
 }
 
 button {
-	margin: 4px 0;
+	margin: 4px 2px;
 	width: fit-content;
 	height: 50px;
 	font-size: 18px;
