@@ -74,7 +74,7 @@ div .box{
 .box .box-img img{
     width: 200px;
     height:350px;
-    border:2px solid #000;
+    border:none;
     border-radius: 10px;
 }
 
