@@ -53,7 +53,7 @@ https://user-images.githubusercontent.com/78849620/135761786-567322b9-995f-4d10-
   * [Yeh-boi](https://github.com/Yeh-boi)                  :boy:
   * [Aditya Chavan](https://github.com/git-aditya-star)    :boy:
   * [varshilshah](https://github.com/varshilshah-2002)    :boy:
- 
+  * [Jessej Samuel](https://github.com/jessej-samuel)     :boy:
  
  ***Contributions in flip cards by:***
  
