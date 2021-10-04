@@ -78,6 +78,10 @@ div .box{
     border-radius: 10px;
 }
 
+.fa-search:before {
+	color: #426696;
+}
+
 .box .content
 {
     color:rgb(231, 12, 12);
