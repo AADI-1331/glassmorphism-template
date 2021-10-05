@@ -4,9 +4,13 @@
 # <ins>GLASSMORPHISM TEMPLATE</ins> #
 
 # :tada:NEW LOOK:tada: #
-***updated 3-10-2021***
+***updated 5-10-2021***
 
-https://user-images.githubusercontent.com/78849620/135761206-da2be785-2599-44dd-a8fc-f6e669fa1f2b.mp4
+
+
+https://user-images.githubusercontent.com/78849620/136057173-95107b67-3e76-4746-ad07-8a5a4a209c96.mp4
+
+
 
 
 ### Hover effect ###
@@ -55,7 +59,7 @@ https://user-images.githubusercontent.com/78849620/135761786-567322b9-995f-4d10-
   * [varshilshah](https://github.com/varshilshah-2002)    :boy:
   * [Jessej Samuel](https://github.com/jessej-samuel)     :boy:
   * [harshrawat](https://github.com/harshrawat20)         :boy:
-
+  * [Sushant Patial](https://github.com/SushantPatial)    :boy:
 
 
  ***Contributions in flip cards by:***
