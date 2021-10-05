@@ -42,8 +42,6 @@ main {
 	flex-wrap: wrap;
 	align-items: center;
 	align-content: space-around;
-    
-
 }
 div .box{
     padding:20px;
@@ -263,7 +261,7 @@ div .box{
 	color: white;
 	padding-bottom: 1rem;
 	position: relative;
-
+	cursor:pointer;
 }
 
 .pro img {

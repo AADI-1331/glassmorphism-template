@@ -1,0 +1,54 @@
+footer
+{
+  height: 300px;
+  background-color: rgb(255, 176, 244);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  overflow: hidden;
+}
+
+.join-pro
+{
+  cursor:pointer;
+  padding:20px;
+  color:rgb(182, 0, 142);
+  border:rgb(182, 0, 142) 2px solid;
+  background-color: rgb(255, 176, 244);
+  font-size:18px;
+  margin-top:55px;
+  transition: background-color 0.5s ease;
+  transition: color 0.5s ease;
+}
+.join-pro:hover
+{
+  background-color:rgb(252, 109, 145);
+  color: white;
+}
+
+.break
+{
+  flex-basis: 100%;
+}
+
+#icon
+{
+  width:50px;
+  margin: 10px;
+  transition: transform 0.5s ease;
+}
+#icon:hover
+{
+  transform: scale(1.1);
+}
+
+.socials
+{
+  margin-top:1%;
+}
+
+.copyright
+{
+  margin-bottom: 4%;
+}
