@@ -73,16 +73,16 @@ https://user-images.githubusercontent.com/78849620/135761786-567322b9-995f-4d10-
   * [Garima](https://github.com/Garima-7)                  :girl:
   * [Salokya Kumar](https://github.com/ksalokya)           :boy:
   * [Apoorv](https://github.com/apoorvcodes)               :boy:
-  * [sargam poudel](https://github.com/sargam-poudel)      :boy:
+  * [Sargam Poudel](https://github.com/sargam-poudel)      :boy:
   * [Pranav Anbarasan](https://github.com/Pranavanbu28)    :boy:
   * [Arjun Khanduri](https://github.com/arjun-khanduri)    :boy:
   * [Sayantani Deb](https://github.com/SayantaniDeb)       :girl:
   * [Yash Bobde](https://github.com/Yash-Bobde)            :boy:
-  * [Yeh-boi](https://github.com/Yeh-boi)                  :boy:
+  * [Yeh-Boi](https://github.com/Yeh-boi)                  :boy:
   * [Aditya Chavan](https://github.com/git-aditya-star)    :boy:
-  * [varshilshah](https://github.com/varshilshah-2002)    :boy:
+  * [Varshil Shah](https://github.com/varshilshah-2002)    :boy:
   * [Jessej Samuel](https://github.com/jessej-samuel)     :boy:
-  * [harshrawat](https://github.com/harshrawat20)         :boy:
+  * [Harsh Rawat](https://github.com/harshrawat20)         :boy:
   * [Sushant Patial](https://github.com/SushantPatial)    :boy:
   * [Sowham Bhuin](https://github.com/Sowham-3098)        :boy:
 
